@@ -1,4 +1,5 @@
 [run]
 source = django_otp
+
 omit =
     */migrations/*
